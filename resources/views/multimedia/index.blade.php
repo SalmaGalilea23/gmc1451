@@ -9,6 +9,8 @@
 </head>
 <body>
     <h1>SOY EL INDEX</h1>
+    <h1>SOY EL GRUPO GMC1451-V</h1>
+    <p>Bienvenido al grupo de Multimedia</p>
     
 </body>
 </html>
